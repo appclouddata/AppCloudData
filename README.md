@@ -1,10 +1,10 @@
 
-## About AppCloudData R&D(I)
+## ABOUT AppCloudData R&D(I)
 _Data Driven Product Strategy!_
 
 AppCloudData R&D(I) is a global leading specialization in consulting, technology services and digital transformation. AppCloudData is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong heritage and deep industry-specific expertise, AppCloudData enables organizations to realize their business ambitions through an array of services from strategy to operations. AppCloudData is driven by the conviction that the business value of technology comes from and through people.
 
-### Focuses & Specialization
+### FOCUS & SPECIALIZATION
 Our specialization here is to deliver services with Rich user experience having dynamic content and maximum user participation. In AppCloudData, we have great experienced and highly skilled developers and experts with 9+ years of experience in Website & Mobile Application Development, having Premium expertise in PHP, Android, iOS, Meanstack, WordPress, Magento, Codeigniter, Laravel, Yii, AngularJS, HTML5, CSS3 and Bootstarp. 
 ```markdown
 Our Technology Consulting focuses and specialize in: 
@@ -56,8 +56,6 @@ Agriculture, Retail/Auction/Price Comparison, E-Commerce - B2B & B2C, Consumer G
 
 Please feel free to contact us for any discussion about your project. We are always available on Skype as per your time zone and looking forward for your reply and glad to design your dream!
 
-
-
 ### MISSION & VISION
 
 Our mission is to achieve our objective in an environment that fosters honesty, fairness, integrity and a single minded focus on the success of our customers and to bring about an entrepreneurial revolution in India.
@@ -65,7 +63,7 @@ Our mission is to achieve our objective in an environment that fosters honesty, 
 Vision is to be the leading provider of high end, best of breed product engineering life cycle solutions to the global software development and IT industry. Creating business agility via technical excellence and innovative solutions.
 
 -------------
-### Lets get in touch & connected:
+### Lets get in touch :
 
 [Facebook](https://www.facebook.com/AppCloudData) 
 
