@@ -22,24 +22,25 @@ Our Technology Consulting focuses and specialize in:
     - Enterprise Portal Development
     - Custom Development
 ```
-Visit us at [AppCloudData R&D (I)](https://appclouddata.com). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -------------
+[AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
 -------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
