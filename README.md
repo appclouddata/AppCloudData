@@ -38,7 +38,7 @@ Our mission is to achieve our objective in an environment that fosters honesty, 
 Vision is to be the leading provider of high end, best of breed product engineering life cycle solutions to the global software development and IT industry. Creating business agility via technical excellence and innovative solutions.
 
 -------------
-© 2015 - 2018 [AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
+**Lets get in touch & connected:**
 
 [Facebook](https://www.facebook.com/AppCloudData) 
 
@@ -59,6 +59,9 @@ Vision is to be the leading provider of high end, best of breed product engineer
 [Slideshare](https://www.slideshare.net/appclouddata) 
 
 [Quora](https://quora.com/appclouddata) 
+
+
+© 2015 - 2018 [AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
 
 -------------
 
