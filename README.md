@@ -33,7 +33,7 @@ AppCloudData catering innovative technology consulting and IT outsourcing servic
 
 [Twitter](https://twitter.com/appclouddata) 
 
-![](https://static.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc) [Linkedin](https://www.linkedin.com/company/appclouddata) 
+[Linkedin](https://www.linkedin.com/company/appclouddata) 
 
 [Google+](https://plus.google.com/117903651776733303304) 
 
