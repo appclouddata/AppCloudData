@@ -24,7 +24,16 @@ Our Technology Consulting focuses and specialize in:
 ```
 -------------
 © 2015 - 2018 [AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
-
+[Facebook](https://www.facebook.com/AppCloudData)
+[Twitter](https://twitter.com/appclouddata)
+[Linkedin](https://www.linkedin.com/company/appclouddata)
+[Google+](https://plus.google.com/117903651776733303304)
+[YouTube](https://www.youtube.com/channel/UC3oVAv8_tm5qW7vrEsHNXrg)
+[Stackoverflow](https://stackoverflow.com/users/5618883/appclouddata)
+[WordPress](https://appclouddata.wordpress.com/)
+[Blogspot](http://appclouddata.blogspot.com/)
+[Slideshare](https://www.slideshare.net/appclouddata)
+[Quora](https://quora.com/appclouddata)
 -------------
 
 
