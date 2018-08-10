@@ -26,9 +26,9 @@ _People matter, results count!_
 
 AppCloudData catering innovative technology consulting and IT outsourcing services for SMEs and enterprises. Empowered by talented & skilled IT professionals, we have delivered solutions innovatively. We are a professional and trusted IT partner that believes in collaboration and synergy as technology is a multifaceted giant, so let's tether it together.
 
-1.From startups to enterprise solutions the products we produce for our clients support their strategic initiatives first and foremost through open collaboration, forward-thinking user experience, engaging design, & cross-platform development for both web and mobile.
-2.Competing among the toughest competitors warrant an exact time tested service delivery for which our work has raised performance standards in all levels.
-3.Years of perfect planning, critical analysis, tactful strategy, hard work and lastly the feedback point a testimony of completing the process of endurance.
+1.From startups to enterprise solutions the products we produce for our clients support their strategic initiatives first and foremost through open collaboration, forward-thinking user experience, engaging design, & cross-platform development for both web and mobile. 
+2.Competing among the toughest competitors warrant an exact time tested service delivery for which our work has raised performance standards in all levels. 
+3.Years of perfect planning, critical analysis, tactful strategy, hard work and lastly the feedback point a testimony of completing the process of endurance. 
 4.Repeat business or referrals because of our credentials in producing web related solutions justify customer loyalty therefore ranking us as their favorite choice among other web development companies.
 
 ### Mission & Vision
