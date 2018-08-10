@@ -2,7 +2,7 @@
 ## About us
 
 ### AppCloudData R&D(I)
-_Data Driven Product Strategy_
+_Data Driven Product Strategy!_
 
 A global leading specialization in consulting, technology services and digital transformation. AppCloudData is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong heritage and deep industry-specific expertise, AppCloudData enables organizations to realize their business ambitions through an array of services from strategy to operations. AppCloudData is driven by the conviction that the business value of technology comes from and through people.
 
