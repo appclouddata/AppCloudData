@@ -81,6 +81,10 @@ Vision is to be the leading provider of high end, best of breed product engineer
 
 [WordPress](https://appclouddata.wordpress.com/) 
 
+[About.me](https://about.me/appclouddata/) 
+
+[Wikipedia](https://en.wikipedia.org/wiki/appclouddata) 
+
 [Github](https://github.com/appclouddata)
 
 [Stackoverflow](https://stackoverflow.com/users/5618883/appclouddata) 
