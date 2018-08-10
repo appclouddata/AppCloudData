@@ -8,6 +8,7 @@ AppCloudData R&D(I) is a global leading specialization in consulting, technology
 Our specialization here is to deliver services with Rich user experience having dynamic content and maximum user participation. We follow web 2.0 standards like dynamic content, rich user interface, optimized metadata, web standards and scalability. 
 ```markdown
 Our Technology Consulting focuses and specialize in: 
+
     - UI/UX Design & Development
     - Website Development
     - Mobile Application Development
