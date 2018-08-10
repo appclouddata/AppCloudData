@@ -6,8 +6,7 @@
 AppCloudData R&D(I) is a global leading specialization in consulting, technology services and digital transformation. AppCloudData is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong heritage and deep industry-specific expertise, AppCloudData enables organizations to realize their business ambitions through an array of services from strategy to operations. AppCloudData is driven by the conviction that the business value of technology comes from and through people.
 
 ```markdown
-Our Technology Consulting focuses and specialize in:
-
+Our Technology Consulting focuses and specialize in: 
     - UI/UX Design & Development
     - Website Development
     - Mobile Application Development
