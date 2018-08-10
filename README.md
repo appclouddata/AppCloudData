@@ -9,7 +9,7 @@ A global leading specialization in consulting, technology services and digital t
 ```markdown
 Our Technology Consulting focuses and specialize in:
 
-    - UI/UX Design & Development (Mobile App & Web App)
+    - UI/UX Design & Development
     - Website Development
     - Mobile Application Development
     - Cloud (AWS, Google & Azure) & VPS Server Management
