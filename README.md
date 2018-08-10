@@ -24,6 +24,7 @@ Our Technology Consulting focuses and specialize in:
 ```
 -------------
 © 2015 - 2018 [AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
+
 -------------
 
 
