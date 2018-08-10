@@ -29,7 +29,7 @@ Our Technology Consulting focuses and specialize in:
 
 [Twitter](https://twitter.com/appclouddata) 
 
-[Linkedin](https://www.linkedin.com/company/appclouddata) 
+![](https://static.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc) [Linkedin](https://www.linkedin.com/company/appclouddata) 
 
 [Google+](https://plus.google.com/117903651776733303304) 
 
