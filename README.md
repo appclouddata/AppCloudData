@@ -5,7 +5,7 @@ _Data Driven Product Strategy!_
 AppCloudData R&D(I) is a global leading specialization in consulting, technology services and digital transformation. AppCloudData is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong heritage and deep industry-specific expertise, AppCloudData enables organizations to realize their business ambitions through an array of services from strategy to operations. AppCloudData is driven by the conviction that the business value of technology comes from and through people.
 
 ### Focuses & Specialization
-Our specialization here is to deliver services with Rich user experience having dynamic content and maximum user participation. We follow web 2.0 standards like dynamic content, rich user interface, optimized metadata, web standards and scalability. Using 
+Our specialization here is to deliver services with Rich user experience having dynamic content and maximum user participation. In AppCloudData, we have great experienced and highly skilled developers and experts with 9+ years of experience in Website & Mobile Application Development, having Premium expertise in PHP, Android, iOS, Meanstack, WordPress, Magento, Codeigniter, Laravel, Yii, AngularJS, HTML5, CSS3 and Bootstarp. 
 ```markdown
 Our Technology Consulting focuses and specialize in: 
 
