@@ -23,7 +23,7 @@ Our Technology Consulting focuses and specialize in:
     - Custom Development
 ```
 -------------
-[AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
+© 2015 - 2018 [AppCloudData R&D (I)](https://appclouddata.com). | All Rights Reserved.
 -------------
 
 
