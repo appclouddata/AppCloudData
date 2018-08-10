@@ -75,6 +75,10 @@ Vision is to be the leading provider of high end, best of breed product engineer
 
 [YouTube](https://www.youtube.com/channel/UC3oVAv8_tm5qW7vrEsHNXrg) 
 
+[Instagram](https://www.instagram.com/appclouddata/) 
+
+[Pinterest](https://www.pinterest.com/appclouddata/) 
+
 [WordPress](https://appclouddata.wordpress.com/) 
 
 [Github](https://github.com/appclouddata)
