@@ -22,7 +22,7 @@ Our Technology Consulting focuses and specialize in:
     
 ```
 
-## Why 'AppCloudData'
+### WHY 'AppCloudData'
 _People matter, results count!_
 
 AppCloudData catering innovative technology consulting and IT outsourcing services for SMEs and enterprises. Empowered by talented & skilled IT professionals, we have delivered solutions innovatively. We are a professional and trusted IT partner that believes in collaboration and synergy as technology is a multifaceted giant, so let's tether it together.
@@ -32,7 +32,33 @@ AppCloudData catering innovative technology consulting and IT outsourcing servic
 3. Years of perfect planning, critical analysis, tactful strategy, hard work and lastly the feedback point a testimony of completing the process of endurance. 
 4. Repeat business or referrals because of our credentials in producing web related solutions justify customer loyalty therefore ranking us as their favorite choice among other web development companies.
 
-### Mission & Vision
+### EXPERIENCE
+With more than eight years of experience, we have delivered projects for more than 120+ clients located worldwide in more than 10 countries. We mainly work with clients located in United States, United Kingdom, Australia, Brazil, Saudi Arab, UAE, South Africa, France & Switzerland. 
+
+### INDUSTRY EXPERIENCE
+Agriculture, Retail/Auction/Price Comparison, E-Commerce - B2B & B2C, Consumer Goods & Services, Banking Finance and Insurance, Hotel Booking, Travel and Hospitality, Medical and Health Care, Automotive, E-learning and Educational, Matrimonial and Dating, Recruitment and Jobs, NGO and Government, Media and Entertainment, Logistics and Transportation, Gaming & Sports, Real Estate / Property, Social Networking, Manufacturing.
+
+### WHAT WE WILL PROVIDE ON START 
+- Mock up with wire-frame of the application. 
+- The preliminary prototype design. 
+- The Deploying version of development technology & tools. 
+
+### SUCCESSFUL ENGAGEMENT
+- We provide Rapid and the cost effective development. 
+- Daily updates and expect feedback on the same. 
+- Good to go with Git, SVN, BitBucket. etc. 
+
+### WHAT WE NEED FROM YOU
+- Functionality requirements 
+- Who are the end users 
+- Expected volume of users 
+- Deployment methods and frequency of updates 
+
+Please feel free to contact us for any discussion about your project. We are always available on Skype as per your time zone and looking forward for your reply and glad to design your dream!
+
+
+
+### MISSION & VISION
 
 Our mission is to achieve our objective in an environment that fosters honesty, fairness, integrity and a single minded focus on the success of our customers and to bring about an entrepreneurial revolution in India.
 
