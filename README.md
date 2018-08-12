@@ -71,9 +71,13 @@ Vision is to be the leading provider of high end, best of breed product engineer
 
 [Linkedin](https://www.linkedin.com/company/appclouddata) 
 
-[Google+](https://plus.google.com/117903651776733303304) 
+[Skype](https://join.skype.com/nfPa133pBSXz)
+
+[Github](https://github.com/appclouddata)
 
 [YouTube](https://www.youtube.com/channel/UC3oVAv8_tm5qW7vrEsHNXrg) 
+
+[Google+](https://plus.google.com/117903651776733303304) 
 
 [Instagram](https://www.instagram.com/appclouddata/) 
 
@@ -89,13 +93,11 @@ Vision is to be the leading provider of high end, best of breed product engineer
 
 [Wikipedia](https://en.wikipedia.org/wiki/appclouddata) 
 
-[Github](https://github.com/appclouddata)
-
-[Stackoverflow](https://stackoverflow.com/users/5618883/appclouddata) 
-
 [Blogspot](http://appclouddata.blogspot.com/) 
 
 [Slideshare](https://www.slideshare.net/appclouddata) 
+
+[Stackoverflow](https://stackoverflow.com/users/5618883/appclouddata) 
 
 [Quora](https://quora.com/appclouddata) 
 
